@@ -1,5 +1,5 @@
 ---
-layout: alter
+#layout: alter
 title: Home
 ---
 
