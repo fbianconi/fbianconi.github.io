@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loffer jekyll theme 
 name: 
 description: 
@@ -96,3 +97,6 @@ exclude:
   - CNAME
 
 excerpt_separator: ---
+=======
+
+>>>>>>> 190594b69b5e2600af029827b291cb809ddad20c
