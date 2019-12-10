@@ -1,11 +1,11 @@
 ---
 title: Home
+layout: page
 ---
+# Wellcome to the jungle
 
-# Hello Dr. it's time to wake up
+- Here's [Sudoku](/sudoku)
+- Here's [Sodiestar](/sodiestar)
 
-### Here's [sudoku](https://fbianconi.github.io/sudoku)
-
-### Here's [sodiestar](https://fbianconi.github.io/sodiestar)
-
-Have a nice day.
+    
+Have a nice Day
